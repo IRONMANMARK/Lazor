@@ -6,7 +6,7 @@ You could share the project
 * The only thing that needs to change is the path for the folder that contains all the .bff file.<br>
 * Use python 3.7 to run the code.
 ## High lights
- * This code will run all possible combinations and the runtime for the largest board yarn_5 is 87.55 seconds.
+ * This code will run all possible combinations and the runtime for the largest board yarn_5 is 87.55 seconds single thread.
  * I use Profile package to analysis the time used for each function and optimize the code.
  ## Benchmark
  The detail information for the test run:<br>
